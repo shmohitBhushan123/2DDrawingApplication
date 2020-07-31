@@ -9,10 +9,7 @@ import java.awt.Paint;
 import java.awt.Point;
 import java.awt.Stroke;
 
-/**
- *
- * @author al
- */
+
 public class MyRectangle extends MyBoundedShapes{
     
     public MyRectangle(Point pntA, Point pntB, Paint paint, Stroke strk, boolean filled)

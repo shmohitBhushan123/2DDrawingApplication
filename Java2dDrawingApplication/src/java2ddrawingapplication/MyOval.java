@@ -9,10 +9,7 @@ import java.awt.Paint;
 import java.awt.Point;
 import java.awt.Stroke;
 
-/**
- *
- * @author al
- */
+
 public class MyOval extends MyBoundedShapes{
     
     public MyOval(Point pntA, Point pntB, Paint paint, Stroke strk, boolean filled)

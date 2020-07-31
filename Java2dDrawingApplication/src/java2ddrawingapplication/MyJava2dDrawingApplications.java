@@ -9,7 +9,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 /**
  *
- * @author rachelbrooks
+ * @author mohitbhushan
  */
 public class MyJava2dDrawingApplications
 {
